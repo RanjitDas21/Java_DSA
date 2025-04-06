@@ -2,8 +2,6 @@
 
 package Array;
 
-import java.util.Scanner;
-
 public class findSecondMax {
 
     static int findMax(int arr[]) {
