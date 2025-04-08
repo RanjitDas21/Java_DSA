@@ -1,3 +1,5 @@
+// Given an integer array "arr", return the prefix sum/running sum in the same array without creating a new array.
+
 package Array;
 
 public class prefixSum_2 {
